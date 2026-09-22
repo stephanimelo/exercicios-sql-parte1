@@ -40,7 +40,7 @@ Script completo: [exercicios_sql_parte1.sql](exercicios_sql_parte1.sql)
 - nas segundas-feiras (dia da semana = 2), tiveram ao menos uma turma do departamento de 'Informática', e
 - nas quartas-feiras (dia da semana = 4), tiveram ao menos uma turma ministrada pelo professor denominado 'Antunes'
 
-<img src="6) Salas (predio, numero) com turma de Informatica na segundaE turma de Antunes na quarta.PNG" width="400"/>
+<img src="6) Salas (predio, numero) com turma de Informatica na segunda E turma de Antunes na quarta.PNG" width="400"/>
 
 ---
 
